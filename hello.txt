@@ -1,1 +1,1 @@
-Hello world! We have learne git.
+Hello world! We have learned git.
